@@ -1,0 +1,16 @@
+{
+    "nombre":"Mateo",
+    "apellidos":"Sáez Álvarez",
+    "profesión":"Intento de informático",
+    "descrpción":"Gran interés por la programación y la tecnología. Uso frecuente de C++ y Java.",
+    "experiencia":[
+        {
+            "empresa":"Una totalmente cierta",
+            "tiempo":"Indeterminado"
+        },
+        {
+            "empresa":"Existencia",
+            "tiempo":"Enero 2020 - Marzo 2022"
+        }
+    ]
+}
