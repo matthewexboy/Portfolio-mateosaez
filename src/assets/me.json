@@ -1,16 +1,19 @@
 {
-    "nombre":"Mateo",
-    "apellidos":"Sáez Álvarez",
-    "profesión":"Intento de informático",
-    "descrpción":"Gran interés por la programación y la tecnología. Uso frecuente de C++ y Java.",
+    "nombre":"Mateo Sáez Álvarez",
+    "profesión":"Programador",
+    "descripción":"Estudiante de primero de DAW, me gusta la informática y el rol de mesa. También me gusta la lectura",
+    "habilidades":["Escucha activa","Resolución pacífica de conflictos","..."],
     "experiencia":[
         {
-            "empresa":"Una totalmente cierta",
-            "tiempo":"Indeterminado"
+            "nombre":"II Congreso de IA de Andalucía",
+            "descripción":"Asistencia a un congreso de IA en Granada",
+            "fecha":"19-21 noviembre 2024"
         },
         {
-            "empresa":"Existencia",
-            "tiempo":"Enero 2020 - Marzo 2022"
+            "nombre":"GDG Devfest Jaén",
+            "descripción":"Asistencia a un congreso de Informática en la Universidad de Jaén",
+            "fecha":"30 noviembre 2024"
         }
     ]
+    
 }
