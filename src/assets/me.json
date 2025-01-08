@@ -2,7 +2,7 @@
     "nombre":"Mateo Sáez Álvarez",
     "profesión":"Programador",
     "descripción":"Estudiante de primero de DAW, me gusta la informática y el rol de mesa. También me gusta la lectura",
-    "habilidades":["Escucha activa","Resolución pacífica de conflictos","..."],
+    "habilidades":["Escucha activa"," Resolución pacífica de conflictos"],
     "experiencia":[
         {
             "nombre":"II Congreso de IA de Andalucía",
