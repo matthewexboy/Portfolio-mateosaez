@@ -1,0 +1,71 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.hero {
+    display: flex;
+    padding-left: 20px;
+    border-radius: 32px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black ;
+    color: white;
+    height: 50vh;
+    gap: 24px;
+}
+
+.hero h1 {
+    margin: 0%;
+}
+
+.hero p {
+    margin: 0%;
+}
+
+.Nombre {
+    font-size: 72px;
+    line-height: 100%;
+}
+
+.profesión {
+    font-size: 32px;
+    line-height: 120%;
+}
+.experiencia {
+    padding: 16px;
+    background-color: rgb(34, 148, 148);
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.nombre {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+.habilidad {
+    padding: 16px;
+    background-color: aqua;
+    border-radius: 16px;
+    margin-bottom: 16px;
+    width: fit-content;
+}
+
+.habilidad p {
+    width: fit-content;
+    margin: 0px;
+}
+
+.envoltura-habilidades {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
