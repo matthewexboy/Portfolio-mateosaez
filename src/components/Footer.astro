@@ -1,0 +1,46 @@
+---
+import Github from "./icons/Github.astro"
+import Instagram from "./icons/instagram.astro"
+import Twitter from "./icons/Twitter.astro"
+---
+<header>
+    <nav>
+        <ul>
+            <li><a href="https://www.instagram.com/mateosaez0705/"><Instagram/></a></li>
+            <li><a href="https://github.com/matthewexboy/"><Github/></a></li>
+            <li><a href="https://x.com/vatomoro"><Twitter/></a></li>
+        </ul>
+    </nav>
+</header>
+
+<style>
+    footer{
+        margin-top: 84px;
+        width: 100%;
+        background-color: black;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+    }
+
+    ul{
+        width: fit-content;
+        padding: 16px;
+        display: flex;
+        flex-direction: row;
+        gap: 16px;
+        align-items: center;
+
+    }
+
+    li{
+        list-style-type: none;
+    }
+
+    a {
+        text-decoration: none;
+        color: rgb(26, 100, 32);
+    }
+</style>
