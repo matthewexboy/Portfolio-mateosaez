@@ -10,4 +10,4 @@ UJA
 ## Introducción
 Mejora de la página de un profesor de la UJA.
 ## Contenido
-Utilizando tecnologías actuales se ha actualizado y modernizado la página web de un profesor de Álgebra.
+Utilizando tecnologías actuales se ha actualizado y modernizado la página web de un profesor del área de Álgebra de la Universidad de Jaén.
